@@ -19,7 +19,9 @@ We make the backend better by reducing drastically the code surface of it. Decla
 A simplified version of the backend should have it's matching frontend library. Waltz UI is made on top of Vue with a powerful set of builtin components and utilities a handful of dynamic runtime rendering to let you setup a beautiful, colaboration-friendly frontend with tiny bundle sizes.
 
 
-## Getting involved
+## Get involved
+
+If you are a highly talented individual who wants to take part in this project, a business person seeking professional assistance, or just need to ask some technical question about or software, don't hesitate to get in touch with us. We'll be available everyday.
 
 Join our [Discord Server]()
 
