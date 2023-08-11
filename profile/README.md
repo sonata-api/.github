@@ -1,6 +1,6 @@
 # Welcome to the Sonata Project
 
-We are building an ecosystem of libraries and tools with the sole purpose of empowering developers around the world to build better applications, faster. If you are an individual, this means less lines of code to make something significant. If you are a business or startup, it means a tremendous save of money with expertise. We are convinced that a small team of talented people with the right set of tools or even an individual can be better than a whole room full of lazy developers struggling with their own tools. No one should be paying big sums of money just for getting a state management done right.
+We are building an ecosystem of software with the sole purpose of empowering developers around the world to build better applications, faster. If you are an individual, this means less lines of code to make something significant. If you are a business or startup, it means a tremendous save of money with expertise. We are convinced that a small team of talented people with the right set of tools or even an individual can be better than a whole room full of lazy developers struggling with their own tools. No one should be paying big sums of money just for getting state management done right or to set a simple REST server running. Let you or your employees be creative.
 
 ## Know how we are revolutionizing the Fullstack
 
