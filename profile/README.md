@@ -9,4 +9,4 @@ We are focused on making the Fullstack smaller, cheaper, and safer. Our two main
 
 ### Get Involved
 
-[![Hastr Discord](https://img.shields.io/discord/1143313925283258499)](https://discord.gg/n5JFJkbXga)
+[![Hastr Discord](https://img.shields.io/discord/1143313925283258499.svg?label=Discord&logo=discord&colorB=7289da&style=for-the-badge)](https://discord.gg/n5JFJkbXga)
